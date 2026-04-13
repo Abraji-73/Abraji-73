@@ -1,21 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=&fontSize=0" width="100%"/>
-
-# Abderrazzak Raji
-
-**`Software Engineer · Web Developer · Problem Solver`**
-
-I build clean, functional software that solves real problems.  
-Based in Morocco — available worldwide for remote work.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:58a6ff,100:1a1b27&height=300&section=header&text=Abderrazzak%20Raji&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Problem%20Solver&descSize=18&descColor=8b949e&descAlignY=60" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrazzak-raji-4720ab334/)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/-abderrazzakrj@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abderrazzakrj@gmail.com)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/-Abraji--73-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abraji-73)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=35&lines=I+build+clean+software+that+solves+real+problems;Available+worldwide+for+remote+work+%F0%9F%87%B2%F0%9F%87%A6;Let's+turn+your+idea+into+production+code)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrazzak-raji-4720ab334/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderrazzakrj@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abraji-73)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/42_Intra-0d1117?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/abraji)
 
 </div>
 
@@ -30,6 +29,42 @@ I'm a software engineer with a systems-level foundation from **1337 (42 Network)
 Today, I focus on **web development** and **automation** — building tools, apps, and workflows that save time and create value. I work with both frontend and backend, and I'm always looking for the simplest solution that actually scales.
 
 > **I don't just write code. I solve problems — then write the code.**
+
+<br/>
+
+## 🧠 Engineering Training — 42 Network
+
+<table>
+<tr>
+<td>
+
+I'm part of the **42 curriculum** at **1337 (UM6P)** — a highly selective, project-based program with no teachers, no courses, and no hand-holding. Everything is learned by doing: peer-reviewed code, strict deadlines, and real engineering problems.
+
+This training has directly shaped how I work:
+
+- **Build from scratch** — C, memory management, zero abstraction layers
+- **Perform under pressure** — strict deadlines, no second chances
+- **Debug complex systems** — race conditions, memory leaks, segfaults
+- **Learn independently** — documentation and source code over tutorials
+
+</td>
+<td width="280" align="center">
+
+<br/>
+
+📊 **Current Level**
+
+<img src="https://img.shields.io/badge/Level-5.14-58a6ff?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+🔗 [**View Intra Profile**](https://profile.intra.42.fr/users/abraji)
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
