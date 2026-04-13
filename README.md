@@ -13,8 +13,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderrazzakrj@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abraji-73)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/42_Intra-0d1117?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/abraji)
 
 </div>
 
@@ -48,19 +46,9 @@ This training has directly shaped how I work:
 - **Learn independently** — documentation and source code over tutorials
 
 </td>
-<td width="280" align="center">
+<td width="320" align="center">
 
-<br/>
-
-📊 **Current Level**
-
-<img src="https://img.shields.io/badge/Level-5.14-58a6ff?style=for-the-badge&labelColor=0d1117"/>
-
-<br/><br/>
-
-🔗 [**View Intra Profile**](https://profile.intra.42.fr/users/abraji)
-
-<br/><br/>
+[![abraji's 42 stats](https://badge.mediaplus.ma/darkblue/abraji)](https://github.com/oakoudad/badge42)
 
 </td>
 </tr>
