@@ -1,18 +1,24 @@
 <div align="center">
 
-<img src="./header.png" width="100%" alt="Abderrazzak Raji — Software Engineer"/>
+<br/>
 
-<br/><br/>
+# Abderrazzak Raji
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=40&lines=I+build+clean+software+that+solves+real+problems;Systems+Thinker+%E2%80%A2+Clean+Code+Advocate;Open+to+Freelance+%26+Remote+Opportunities)](https://git.io/typing-svg)
+**`Software Engineer`** · **`Web Developer`** · **`Systems Builder`**
+
+<br/>
+
+*I turn ideas into clean, working software — from backend logic to pixel-perfect interfaces.*
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrazzak-raji-4720ab334/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderrazzakrj@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderrazzakrj@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abraji-73)
+[![GitHub](https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abraji-73?tab=repositories)
+
+<br/>
 
 </div>
 
