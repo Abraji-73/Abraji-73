@@ -1,22 +1,10 @@
 <div align="center">
 
-# Hey, I'm Abderrazzak 👋
+<img src="./header.png" width="100%" alt="Abderrazzak Raji — Software Engineer"/>
 
-</div>
+<br/><br/>
 
-```js
-const abderrazzak = {
-    location:    "Morocco 🇲🇦",
-    school:      "1337 (UM6P) — 42 Network",
-    focus:       ["Web Development", "System Programming", "Automation"],
-    languages:   ["French", "English"],
-    mindset:     "Build first. Talk later."
-};
-```
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=40&lines=Software+Engineer+%7C+Web+Developer+%7C+Problem+Solver;Systems+Thinker+%E2%80%A2+Clean+Code+Advocate;Open+to+Freelance+%26+Remote+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=40&lines=I+build+clean+software+that+solves+real+problems;Systems+Thinker+%E2%80%A2+Clean+Code+Advocate;Open+to+Freelance+%26+Remote+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -56,7 +44,7 @@ This training has directly shaped how I work:
 <div align="center">
 <br/>
 
-[![abraji's 42 stats](https://badge.mediaplus.ma/kettlebells/abraji?UM6P=unused)](https://github.com/oakoudad/badge42)
+[![abraji's 42 stats](https://badge.mediaplus.ma/darkblue/abraji)](https://github.com/oakoudad/badge42)
 
 </div>
 
