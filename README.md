@@ -1,10 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:58a6ff,100:1a1b27&height=300&section=header&text=Abderrazzak%20Raji&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Problem%20Solver&descSize=18&descColor=8b949e&descAlignY=60" width="100%"/>
+# Hey, I'm Abderrazzak 👋
 
-<br/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=35&lines=I+build+clean+software+that+solves+real+problems;Available+worldwide+for+remote+work+%F0%9F%87%B2%F0%9F%87%A6;Let's+turn+your+idea+into+production+code)](https://git.io/typing-svg)
+```js
+const abderrazzak = {
+    location:    "Morocco 🇲🇦",
+    school:      "1337 (UM6P) — 42 Network",
+    focus:       ["Web Development", "System Programming", "Automation"],
+    languages:   ["French", "English"],
+    mindset:     "Build first. Talk later."
+};
+```
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=40&lines=Software+Engineer+%7C+Web+Developer+%7C+Problem+Solver;Systems+Thinker+%E2%80%A2+Clean+Code+Advocate;Open+to+Freelance+%26+Remote+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,7 +28,7 @@
 
 </div>
 
-<br/>
+---
 
 ## Who I Am
 
@@ -32,10 +44,6 @@ Today, I focus on **web development** and **automation** — building tools, app
 
 ## 🧠 Engineering Training — 42 Network
 
-<table>
-<tr>
-<td>
-
 I'm part of the **42 curriculum** at **1337 (UM6P)** — a highly selective, project-based program with no teachers, no courses, and no hand-holding. Everything is learned by doing: peer-reviewed code, strict deadlines, and real engineering problems.
 
 This training has directly shaped how I work:
@@ -45,14 +53,12 @@ This training has directly shaped how I work:
 - **Debug complex systems** — race conditions, memory leaks, segfaults
 - **Learn independently** — documentation and source code over tutorials
 
-</td>
-<td width="320" align="center">
+<div align="center">
+<br/>
 
-[![abraji's 42 stats](https://badge.mediaplus.ma/darkblue/abraji)](https://github.com/oakoudad/badge42)
+[![abraji's 42 stats](https://badge.mediaplus.ma/kettlebells/abraji?UM6P=unused)](https://github.com/oakoudad/badge42)
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
