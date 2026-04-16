@@ -2,7 +2,7 @@
 
 # Abderrazzak Raji
 
-Aspiring Software Engineer @ 1337 Rabat
+**Aspiring Software Engineer · 42 Student (1337 Rabat)**
 
 Bridging the gap between economic logic and machine code.
 
@@ -13,6 +13,19 @@ Rabat, Morocco
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000000)
 ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=Abraji-73&style=flat-square&label=Views)
+
+</div>
+
+---
+
+## Dashboard
+
+<div align="center">
+
+<a href="https://profile.intra.42.fr/users/abraji">
+  <img src="https://badge.mediaplus.ma/darkblue/abraji" alt="42 Level (abraji)" />
+</a>
 
 </div>
 
