@@ -1,8 +1,8 @@
 <div align="center">
 
-# ABDERRAZZAK RAJI
+# Abderrazzak Raji
 
-**Aspiring Software Engineer @ 1337 Rabat**
+Aspiring Software Engineer @ 1337 Rabat
 
 Bridging the gap between economic logic and machine code.
 
@@ -10,22 +10,25 @@ Rabat, Morocco
 
 [Portfolio](https://abderrazzakraji.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abderrazzak-raji-4720ab334/) · [Email](mailto:abderrazzakrj@gmail.com)
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000000)
+![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+
 </div>
 
 ---
 
-## About
+## About Me
 
 I am a motivated software engineering student with a strong foundation in programming, problem solving, and system-level concepts. Currently pursuing advanced training at **1337 (UM6P)**.
 
 I have hands-on experience in low-level programming and a growing interest in backend development, systems, and web technologies. I demonstrate strong analytical thinking and continuous learning through technical projects and cybersecurity challenges.
 
+**Quick facts**
 - **Languages:** French (Good), English (Good)
 - **Status:** Student at 1337
 
----
-
-## Education
+### Education
 
 - **1337 (UM6P), Rabat** — Computer Science Program *(2024 – Present)*  
   Currently pursuing advanced training in computer science. Working on system programming and technical projects within the 42 curriculum.
@@ -40,21 +43,23 @@ I have hands-on experience in low-level programming and a growing interest in ba
 
 ## Skills
 
-**Programming**
+### Programming
 - C, C++
 
-**Core concepts**
+### Core concepts
 - Algorithms, Data Structures, System Programming, Networking
 
-**Tools**
+### Tools
 - Git, Linux, Bash
 
-**Soft skills**
+### Soft skills
 - Debugging, Teamwork, Problem Solving
 
 ---
 
-## Projects (42 / 1337)
+## Projects
+
+*(42 / 1337)*
 
 <details>
 <summary><strong>LIBFT</strong> — My first own library</summary>
@@ -140,7 +145,7 @@ Tags: C · Graphics · Raycasting
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/abderrazzak-raji-4720ab334
-- GitHub: @abderrazzak-raji
-- Email: abderrazzakrj@gmail.com
-- Portfolio: https://abderrazzakraji.vercel.app/
+- **Portfolio:** https://abderrazzakraji.vercel.app/
+- **LinkedIn:** https://linkedin.com/in/abderrazzak-raji-4720ab334
+- **GitHub:** @abderrazzak-raji
+- **Email:** abderrazzakrj@gmail.com
